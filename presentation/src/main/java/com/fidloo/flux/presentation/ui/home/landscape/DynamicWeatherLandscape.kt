@@ -63,7 +63,7 @@ import com.fidloo.flux.presentation.ui.particle.rainParameters
 import com.fidloo.flux.presentation.ui.particle.snowParameters
 import com.fidloo.flux.presentation.ui.theme.white
 import com.fidloo.flux.presentation.ui.utils.getDescriptionRes
-import dev.chrisbanes.accompanist.insets.statusBarsPadding
+import com.google.accompanist.insets.statusBarsPadding
 import java.util.Calendar
 
 @Composable
